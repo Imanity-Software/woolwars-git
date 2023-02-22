@@ -6,6 +6,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2b1] - 2023-February-23
+- Removed Obfuscation - [LeeGod](https://github.com/LeeGodSRC)
+
 ## [1.0.1b1] - 2023-January-12
 
 ### Added
