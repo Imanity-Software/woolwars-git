@@ -6,6 +6,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.0b1] - 2024-March-19
+- Added support up to 1.20.4
+- Fixed error on startup
+
 ## [1.0.2b1] - 2023-February-23
 - Removed Obfuscation - [LeeGod](https://github.com/LeeGodSRC)
 
