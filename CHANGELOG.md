@@ -6,6 +6,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.1b1] - 2024-April-13
+- Move fairy into fairy-lib-plugin dependency
+
 ## [1.1.0b1] - 2024-March-19
 - Added support up to 1.20.4
 - Fixed error on startup
